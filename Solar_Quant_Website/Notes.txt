@@ -1,0 +1,11 @@
+**SolarQuant Website Build**
+
+*Contact Form Page -> Google Sheets Capture Set Up*
+- Documentation Link - https://github.com/levinunnink/html-form-to-google-sheet
+
+When creating form, do not use GET as this will display the form data in the URL //
+
+SolarQuant Mailing List
+
+Web app URL - https://script.google.com/macros/s/AKfycbzSUphcC-URB4WGN9uwx-2VU5G1taEYPVHZzkZx6i5xNuouXGRyc0a3AN-Ikzd5CBYT/exec
+Deployment ID - AKfycbzSUphcC-URB4WGN9uwx-2VU5G1taEYPVHZzkZx6i5xNuouXGRyc0a3AN-Ikzd5CBYT
