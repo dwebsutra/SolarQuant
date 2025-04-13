@@ -7,7 +7,7 @@ import About from './pages/about'
 import Contact from './pages/contact'
 import FAQ from './pages/faq'
 import Overview from './pages/overview'
-import Privacy_Terms from './pages/privacy_terms'
+import Privacy from './pages/privacy_terms'
 
 
 function App() {
@@ -22,7 +22,7 @@ function App() {
             <Route path='/contact' element={<Contact />} />
             <Route path='/faq' element={<FAQ />} />
             <Route path='/overview' element={<Overview />} />
-            <Route path='/privacy' element={<Privacy_Terms />} />
+            <Route path='/privacy' element={<Privacy />} />
           </Routes>
         </BrowserRouter>
     </div>
